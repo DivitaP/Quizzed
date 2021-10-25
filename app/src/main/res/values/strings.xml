@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quizzed</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="course_name">course_name</string>
+    <string name="course_rating">course_string</string>
+    <string name="image">image</string>
+</resources>
